@@ -3,10 +3,10 @@ package DSA_JAVA.Creating_Nodes;
 public class Creating_Nodes {
     public static void main(String args[]){
         System.out.println("Script Is Running...");
-        Node n1 = new Node(9);          // Node first
-        Node n2 = new Node(4);          // Node second
-        Node n3 = new Node(5);          // Node third
-        Node n4 = new Node(2);          // Node fourth
+        Node n1 = new Node(9);          // Node first created
+        Node n2 = new Node(4);          // Node second created
+        Node n3 = new Node(5);          // Node third created
+        Node n4 = new Node(2);          // Node fourth created
 
         Node head = n1;                     // Declare node first as a head node
         n1.next = n2;                       // Node first is connected to node second
