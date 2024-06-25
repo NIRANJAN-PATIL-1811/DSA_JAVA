@@ -1,4 +1,4 @@
-package DSA_JAVA.Creating_Nodes;
+package DSA_JAVA.Singly_Linked_List;
 
 public class Creating_Nodes {
     public static void main(String args[]){
