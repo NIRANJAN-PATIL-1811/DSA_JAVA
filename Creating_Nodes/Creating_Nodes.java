@@ -8,7 +8,7 @@ public class Creating_Nodes {
         Node n3 = new Node(5);          // Node third created
         Node n4 = new Node(2);          // Node fourth created
 
-        Node head = n1;                     // Declare node first as a head node
+        Node head = n1;                     // Declared node first as a head node
         n1.next = n2;                       // Node first is connected to node second
         n2.next = n3;                       // Node second is connected to node third
         n3.next = n4;                       // Node third is connected to node fourth
